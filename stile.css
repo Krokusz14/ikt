@@ -9,8 +9,8 @@ body{margin: 0;
     font-size: 30px;}
 #menuszalag{width: 100%;
     background-color: var(--hatter);
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;}
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;}
 a{color: white;
     text-decoration: none;}
 #menuszalag ul {display: inline;
@@ -33,6 +33,6 @@ background-position-x: center;
 background-position-y: -60px;
 margin: auto;
 border-radius: 20px;
-border: 1px solid black;
+border: 2px solid black;
 background-repeat: no-repeat;
 }
