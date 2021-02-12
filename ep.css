@@ -6,6 +6,7 @@ body{margin: 0;
     background-image: url(kep4.jfif);
     background-size: cover;
     background-position-x: center;
+    background-repeat: no-repeat;
     background-position-y: -60px;
     font-size: 30px;}
 #menuszalag{width: 100%;

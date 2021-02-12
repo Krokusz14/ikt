@@ -5,7 +5,7 @@ body{margin: 0;
     background-image: url(kep4.jfif);
     background-size: cover;
     background-position-x: center;
-    background-color: rgb(90, 219, 191);
+    background-repeat: no-repeat;
     font-size: 30px;}
 #menuszalag{width: 100%;
     background-color: var(--hatter);
