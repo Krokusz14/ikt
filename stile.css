@@ -26,13 +26,14 @@ div{width: 100%;
     min-height: auto;
 text-align: center;}
 #kep{background-image: url(kep1.jfif);
-height: 490px;
-width: 400px;
+height: 35vw;
+width: 33.3%;
 background-size: cover;
 background-position-x: center;
-background-position-y: -60px;
+background-position-y: -150px;
 margin: auto;
 border-radius: 20px;
 border: 2px solid black;
 background-repeat: no-repeat;
 }
+#ter{background-color: rgba(189, 238, 227, 0.74);}
