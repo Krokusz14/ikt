@@ -1,0 +1,46 @@
+:root{--hatter:rgba(211, 98, 98, 0.76);}
+body{margin: 0;
+    padding: 0;
+    font-size: large;
+    background-image: url(kep3.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -400px;
+    font-size: 30px;}
+#menuszalag{width: 100%;
+    background-color: var(--hatter);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;}
+a{color: rgb(15, 15, 15);
+    text-decoration: none;
+    cursor: pointer;}
+#menuszalag ul {display: inline;
+    padding-inline-start: 0;
+}
+#menuszalag ul  li{
+    width: 100%;
+    min-height: 50px;
+    display: inline;}
+#közép{padding-left: 150px;
+padding-right: 75px;}
+#közép1{padding-right: 150px;
+    padding-left: 75px;}
+p{color: rgb(12, 12, 12);}
+div{width: 100%;
+    min-height: auto;
+text-align: center;}
+#kep2{background-image: url(kep4.jpg);
+    height: 39vw;
+    width: 33.3%;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: -10px;
+    margin: auto;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+    }
+#ter{height: 100%;
+    padding-bottom: 30vw;
+    background-color: rgba(240, 248, 255, 0.644);}
